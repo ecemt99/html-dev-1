@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yemek Tarifi</title>
+</head>
+<style>
+    h2{
+            background-color:bisque;
+            font-size: 20px;
+            color:darkgoldenrod;
+            border-radius: 15px;
+            width: 300px;
+        }
+    h3{
+            background-color: beige;
+            font-size: 20px;
+            color: darkgoldenrod;
+            border-radius: 15px;
+            width: 190px;
+        }
+    h5{
+            margin-left: 500px;
+            font-size: 25px;
+    }    
+     
+</style>
+<body style="background-color:bisque ;">
+   <article>
+      <h1 style="color:darkgoldenrod ;">Limonlu Cheeseecake</h1>
+      <p>Limonlu cheeseecake hem ferah lezzeti hem de görsel olarak davet sofralarının vazgeçilmezidir.</p>
+      <p><strong>Tarif</strong>: Ecem Topaçlıoğlu</p>
+   </article>
+    <p id="soru" style="text-align: center;">
+    <u style="color:darkgoldenrod">Kaç Kişik :</u><u style="color: black;"> 6-8kişilik</u>
+    <u style="color:darkgoldenrod;"> Hazırlama Süersi :</u> 40 dk 
+    <u style="color:darkgoldenrod;">Pişirme Süresi :</u> <u>25dk</u>
+    </p>
+    </article style="margin-left: 450px;"></article>
+    <h2>Limonlu Cheeseecake için malzemeler</h2>
+    <ul>
+        <li>200g labne</li>
+        <li>120 g tereyağ</li>
+        <li>2 paket bisküvi</li>  
+        <li>1 paket vanilin</li>
+        <li>1 limon</li>
+        <li>Niaşasta</li>
+        <li>3 su bardağı şeker</li>
+        <li>3 yumurta</li> 
+    </ul>
+    <h3>Limonlu Cheeseecake Nasıl Yapılır</h3>
+    <ol>
+        <li>Önce tereyağı eritilir.</li>
+        <li>Bisküviler robotta kum kıvamına gelen kadar çekilir ve soğuyan tereyağ eklenir.</li>
+        <li>Elde ettiğimiz bisküvi karışımını kapımıza yayıp donması için dolaba koyarız.</li>
+        <li>Labne ve şeker çırpılır.</li>
+        <li>Yumurtalar eklenir ve çırpılır.</li>
+        <li>Geri kalan malzemelerde eklendikten sonra karışımımızı biskvi tabanının üstüne dökülür.</li>
+        <li>180° derecelik fırında 20-25 dk pişirilir.Fırına ayrıca içine sıcak su konmuş bir tepsi eklenir.</li>
+    </ol>
+    <h4>Üzeri için;Limon suyu,nişasta,şeker ısıtılır renk vermesi için zerdaçal eklenir.SOğuyunca fırından çıkan kekimizin üzerine dökülür</h4>
+    <h5><i>AFİYET OLSUN</i></h5>
+   
+</body>
+</html>
